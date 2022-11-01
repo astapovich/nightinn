@@ -361,8 +361,8 @@
   },
   "letter": {
     "spacing": {
-      "10": {
-        "value": 0.1,
+      "button": {
+        "value": 1.6,
         "type": "letterSpacing"
       }
     }
