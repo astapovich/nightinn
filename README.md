@@ -1,1 +1,1 @@
-# nightinn
+# Night Inn Tokens
