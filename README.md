@@ -1,1 +1,1 @@
-# figma-tokens
+# Night Inn Tokens
