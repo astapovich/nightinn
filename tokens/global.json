@@ -139,14 +139,10 @@
       "overlay": {
         "value": "#30303066",
         "type": "color"
-      }
-    },
-    "color": {
-      "background": {
-        "default": {
-          "value": "#FFFFFF",
-          "type": "color"
-        }
+      },
+      "default": {
+        "value": "#FFFFFF",
+        "type": "color"
       }
     },
     "border": {
