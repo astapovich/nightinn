@@ -48,6 +48,9 @@
   --border-radius-xlarge: 16px;
   --border-radius-2xlarge: 32px;
   --border-radius-pill: 9999px;
+  --border-radius-small: 4px;
+  --border-radius-3xlarge: 64px;
+  --border-radius-4xlarge: 128px;
   --border-width-normal: 1px;
   --border-width-large: 2px;
   --layout-2xs: 4px;
