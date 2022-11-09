@@ -86,6 +86,34 @@
   },
   "color": {
     "background": {
+      "primary": {
+        "value": "#EADCA6",
+        "type": "color"
+      },
+      "accent": {
+        "value": "#9C0D35",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#303030",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#F6F6F5",
+        "type": "color"
+      },
+      "additional": {
+        "value": "#F1F1F1",
+        "type": "color"
+      },
+      "overlay": {
+        "value": "#30303066",
+        "type": "color"
+      },
+      "default": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
       "button": {
         "primary": {
           "default": {
@@ -115,34 +143,6 @@
             "type": "color"
           }
         }
-      },
-      "primary": {
-        "value": "#EADCA6",
-        "type": "color"
-      },
-      "accent": {
-        "value": "#9C0D35",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "#303030",
-        "type": "color"
-      },
-      "tertiary": {
-        "value": "#F6F6F5",
-        "type": "color"
-      },
-      "additional": {
-        "value": "#F1F1F1",
-        "type": "color"
-      },
-      "overlay": {
-        "value": "#30303066",
-        "type": "color"
-      },
-      "default": {
-        "value": "#FFFFFF",
-        "type": "color"
       }
     },
     "border": {
