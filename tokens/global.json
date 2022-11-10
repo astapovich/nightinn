@@ -408,19 +408,17 @@
       "type": "opacity"
     }
   },
-  "shadow": {
-    "dropshadow": {
-      "primary": {
-        "value": {
-          "x": 0,
-          "y": 8,
-          "blur": 24,
-          "spread": 0,
-          "color": "#30303029",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      }
+  "dropshadow": {
+    "primary": {
+      "value": {
+        "x": 0,
+        "y": 8,
+        "blur": 24,
+        "spread": 0,
+        "color": "#30303029",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   }
 }
