@@ -66,8 +66,8 @@
   --layout-6xl: 96px;
   --layout-7xl: 120px;
   --layout-8xl: 140px;
-  --opacity-16: 0.16;
-  --opacity-24: 0.24;
-  --opacity-40: 0.4;
-  --dropshadow-primary: 0px 8px 24px 0px #30303029;
+  --opacity-small: 0.16;
+  --opacity-medium: 0.24;
+  --opacity-large: 0.4;
+  --dropshadow-medium: 0px 8px 24px 0px #30303029;
       }

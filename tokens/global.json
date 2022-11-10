@@ -395,21 +395,21 @@
     }
   },
   "opacity": {
-    "16": {
+    "small": {
       "value": 0.16,
       "type": "opacity"
     },
-    "24": {
+    "medium": {
       "value": 0.24,
       "type": "opacity"
     },
-    "40": {
+    "large": {
       "value": 0.4,
       "type": "opacity"
     }
   },
   "dropshadow": {
-    "primary": {
+    "medium": {
       "value": {
         "x": 0,
         "y": 8,
