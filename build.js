@@ -26,7 +26,7 @@ StyleDictionaryPackage.registerTransform({
     });
 
 StyleDictionaryPackage.registerTransform({
-  name: 'shadow/css',
+  name: 'shadow',
   type: 'value',
     matcher: function(prop) {
     return prop.type === 'boxShadow';
@@ -39,7 +39,7 @@ StyleDictionaryPackage.registerTransform({
 });
 
 StyleDictionaryPackage.registerTransform({
-  name: 'innershadow/css',
+  name: 'innershadow',
   type: 'value',
     matcher: function(prop) {
     return prop.attributes.type === "innershadow";
@@ -85,7 +85,7 @@ function getStyleDictionaryConfig(theme) {
     ],
     "platforms": {
       "web": {
-        "transforms": ["attribute/cti", "name/cti/kebab", "sizes/px", "shadow/css", "innershadow/css", "color/rgb"],
+        "transforms": ["attribute/cti", "name/cti/kebab", "sizes/px", "shadow", "innershadow", "color/rgb"],
         "buildPath": `output/`,
         "files": [{
             "destination": `${theme}.scss`,
