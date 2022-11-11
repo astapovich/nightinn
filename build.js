@@ -88,8 +88,8 @@ function getStyleDictionaryConfig(theme) {
         "transforms": ["attribute/cti", "name/cti/kebab", "sizes/px", "shadow/css", "innershadow/css", "color/rgb"],
         "buildPath": `output/`,
         "files": [{
-            "destination": `${theme}.css`,
-            "format": "css/variables",
+            "destination": `${theme}.scss`,
+            "format": "scss/variables",
             "filter": "isAlias",
             "selector": `:root`
           }]
